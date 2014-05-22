@@ -2,6 +2,3 @@ file
 pink here
 yellow
 adding red
-blue here
-black
-black
