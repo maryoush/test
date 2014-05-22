@@ -2,3 +2,4 @@ file
 pink here
 yellow
 blue here
+green
